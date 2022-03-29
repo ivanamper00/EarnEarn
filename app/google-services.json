@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "773610310711",
+    "project_id": "earn-money-d8d74",
+    "storage_bucket": "earn-money-d8d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773610310711:android:34c1b74349ff728f1a03b2",
+        "android_client_info": {
+          "package_name": "com.urnmani.vroung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773610310711-rhapnc1a1vo919dj2ov1nkaqml2hb64i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.urnmani.vroung",
+            "certificate_hash": "91908bbe45b8cbdf1d42e313008346fa5ff1f744"
+          }
+        },
+        {
+          "client_id": "773610310711-gj1ne1v5c7o785evds152ci3ovi90jds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpmWokTtOT7bSTgOpWIT2HkunPr5zZsM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773610310711-gj1ne1v5c7o785evds152ci3ovi90jds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
